@@ -1,0 +1,7 @@
+opencv-python
+dlib
+
+windows need download cmake : https://cmake.org/download/
+mac need install cmake : brew install cmake
+
+shape_predictor:https://github.com/davisking/dlib-models/blob/master/shape_predictor_68_face_landmarks.dat.bz2
